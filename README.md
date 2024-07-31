@@ -3,10 +3,10 @@ A typing shooter game to practice touch typing.
 
 This was made in Java using [Northeastern University's Image Library](https://course.ccs.neu.edu/cs2510h/image-doc.html) for Northeastern's CS2510 course. By instructor policy, source code can be accessed only by request.
 
-# Demo
-![436137BA-B63C-4FC2-BDE1-787A0E6EE3CC_1_102_o](https://github.com/user-attachments/assets/87ac8a79-1c0f-4879-a020-e15e5b67f6fd)
+## Demo
+![ztype](https://github.com/user-attachments/assets/81e1ee1f-8086-47a5-ab6d-a13e48c6348e)
 
-# Install
+## Install
 1. Request source code.
 2. Download tester.jar and javalib.jar (https://course.ccs.neu.edu/cs2510sp24/lab1.html).
 3. For Eclipse IDE:
