@@ -1,11 +1,10 @@
 # ZType
 A typing shooter game to practice touch typing.
-This was made with Java using Northeastern University's Image Library [https://course.ccs.neu.edu/cs2510h/image-doc.html]
 
-This assignment was created for Northeastern's CS2510 course. By instructor policy, source code can be accessed only by request.
+This was made in Java using [Northeastern University's Image Library](https://course.ccs.neu.edu/cs2510h/image-doc.html) for Northeastern's CS2510 course. By instructor policy, source code can be accessed only by request.
 
 # Demo
-![436137BA-B63C-4FC2-BDE1-787A0E6EE3CC_1_102_o](https://github.com/user-attachments/assets/e5b32071-b352-46c3-9d8c-d277be7a9881)
+![436137BA-B63C-4FC2-BDE1-787A0E6EE3CC_1_102_o](https://github.com/user-attachments/assets/87ac8a79-1c0f-4879-a020-e15e5b67f6fd)
 
 # Install
 1. Request source code.
