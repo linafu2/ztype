@@ -8,7 +8,7 @@ This was made in Java using [Northeastern University's Image Library](https://co
 
 ## Install
 1. Request source code.
-2. Download tester.jar and javalib.jar (https://course.ccs.neu.edu/cs2510sp24/lab1.html).
+2. Download [tester.jar](https://course.ccs.neu.edu/cs2510su18/files/tester.jar) and [javalib.jar](https://course.ccs.neu.edu/cs2510su18/files/javalib.jar).
 3. For Eclipse IDE:
    - File menu -> New -> Java Project
    - Import source code
